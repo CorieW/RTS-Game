@@ -178,7 +178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cbaafab03dd49e47973fa6ead19c0a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resource: 0
+  resource: 1
   yield: 150
 --- !u!61 &-2870061054018413840
 BoxCollider2D:
